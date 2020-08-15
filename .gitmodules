@@ -1,0 +1,6 @@
+[submodule "dev-track"]
+	path = dev-track
+	url = git@github.com:rh-openshift-ansible-better-together/dev-track.git
+[submodule "workshop-operator-lab-guide"]
+	path = workshop-operator-lab-guide
+	url = git@github.com:jduncan-rva/workshop-operator-lab-guide.git
